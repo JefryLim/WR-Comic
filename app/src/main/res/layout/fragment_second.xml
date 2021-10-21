@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="422dp"
+        android:layout_marginTop="-55dp"
+        android:src="@drawable/logo"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="If you have any further inquiry about the company or the application, you can contact us on XXX-XXX-XXX or WRCOMIC_CS@OUTLOOK.COM. The company building is located in XXXXXXX, XXXXXX, XXXXXX , XXX NO.XX ."
+        android:layout_marginTop="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_marginLeft="30dp"
+        android:textAlignment="center"/>
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">WR COMIC</string>
+    <string name="nav_drawer_open">Drawer Open</string>
+    <string name="nav_drawer_close">Drawer CLose</string>
+
+    <string-array name="title">
+        <item>Jujutsu Kaisen</item>
+        <item>One Punch Man</item>
+        <item>Kaguya-sama: Love is War</item>
+        <item>Shingeki no Kyojin</item>
+        <item>Kengan Ashura</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Yuuji is a genius at track and field. But he has zero interest running around in circles, he is happy as a clam in the Occult Research Club. Although he is only in the club for kicks, things get serious when a real spirit shows up at school! Lifes about to get really strange in Sugisawa Town 3 High School!</item>
+        <item>After rigorously training for three years, the ordinary Saitama has gained immense strength which allows him to take out anyone and anything with just one punch. He decides to put his new skill to good use by becoming a hero. However, he quickly becomes bored with easily defeating monsters, and wants someone to give him a challenge to bring back the spark of being a hero.</item>
+        <item>All’s fair when love is war! Two geniuses. Two brains. Two hearts. One battle. Who will confess their love first…?! Kaguya Shinomiya and Miyuki Shirogane are two geniuses who stand atop their prestigious academy’s student council, making them the elite among elite. But it’s lonely at the top and each has fallen for the other. There’s just one huge problem standing in the way of lovey-dovey bliss—they’re both too prideful to be the first to confess their romantic feelings and thus become the “loser” in the competition of love! And so begins their daily schemes to force the other to confess first!</item>
+        <item>Several hundred years ago, humans were nearly exterminated by Titans. Titans are typically several stories tall, seem to have no intelligence, devour human beings and, worst of all, seem to do it for the pleasure rather than as a food source. A small percentage of humanity survived by walling themselves in a city protected by extremely high walls, even taller than the biggest of Titans. Flash forward to the present and the southern district of Shinganshina has not seen a Titan in over 100 years. Teenage boy Eren and his foster sister Mikasa witness something horrific as one of the outer district walls is damaged by a 60 meter (196.85 feet) Titan causing a breach in the wall. As the smaller Titans flood the city, the two kids watch in horror the tragic events that follow, as the Titans devour people uninpeded. Eren vows that he will wipe out every single Titan and take revenge for all of mankind.</item>
+        <item>Since the Edo periods of Japan, gladiator arenas exist in certain areas. In these arenas, wealthy business owners and merchants hire gladiators to fight in unarmed combat where winner takes all. Tokita Ohma, nicknamed "Asura", joins these arenas and devastates his opponents. His spectacular ability to crush his enemies catches the attention of the big business owners, including the Nogi Group chairman, Nogi Hideki.</item>
+    </string-array>
+
+    <string-array name="stock">
+        <item>In stock: 25</item>
+        <item>In stock: 50</item>
+        <item>In stock: 50</item>
+        <item>Sorry! we\'re out of stock</item>
+        <item>In stock: 75</item>
+    </string-array>
+
+    <string-array name="hometitle">
+        <item>Jujutsu Kaisen</item>
+        <item>One Punch Man</item>
+        <item>Kaguya-sama: Love is War</item>
+    </string-array>
+
+    <string-array name="homedes">
+        <item>Yuuji is a genius at track and field. But he has zero interest running around in circles, he is happy as a clam in the Occult Research Club. Although he is only in the club for kicks, things get serious when a real spirit shows up at school! Lifes about to get really strange in Sugisawa Town 3 High School!</item>
+        <item>After rigorously training for three years, the ordinary Saitama has gained immense strength which allows him to take out anyone and anything with just one punch. He decides to put his new skill to good use by becoming a hero. However, he quickly becomes bored with easily defeating monsters, and wants someone to give him a challenge to bring back the spark of being a hero.</item>
+        <item>All’s fair when love is war! Two geniuses. Two brains. Two hearts. One battle. Who will confess their love first…?! Kaguya Shinomiya and Miyuki Shirogane are two geniuses who stand atop their prestigious academy’s student council, making them the elite among elite. But it’s lonely at the top and each has fallen for the other. There’s just one huge problem standing in the way of lovey-dovey bliss—they’re both too prideful to be the first to confess their romantic feelings and thus become the “loser” in the competition of love! And so begins their daily schemes to force the other to confess first!</item>
+    </string-array>
+
+    <string-array name="homestock">
+        <item>In stock: 25</item>
+        <item>In stock: 50</item>
+        <item>In stock: 50</item>
+    </string-array>
+</resources>
